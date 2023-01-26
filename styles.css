@@ -116,7 +116,7 @@ header {
     align-items: center;
   }
     figure {
-      max-width: 90%;
+      /* max-width: 90%; */
       display: flex;
       flex-direction: column;
 
@@ -334,9 +334,6 @@ article {
         justify-self: center;
         align-self: center;
       }
-        #img-div {
-          width: 55vw;
-        }
           #image {
             border-radius: 1rem 1rem;
           }
@@ -486,7 +483,5 @@ article {
       font-size: 1.3rem;
     } 
 
-    article {
 
-    }
   }
